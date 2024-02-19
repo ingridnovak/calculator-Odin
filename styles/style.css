@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(153, 131, 155);
+}
+
+header > h1{
+    text-align: center;
+}
+
+.main_content{
+    display: flex;
+    justify-content: center;
+}
+
+
+.calculator_container{
+    margin-top: 20px;
+    width: 450px;
+    height: 550px;
+    background-color: rgba(20, 106, 77, 0.523);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.calculator_head{
+    width: 90%;
+    height: 90px;
+    background-color: #ffffffa8;
+    border-radius: 20px;
+    margin-top: 20px;
+    border: 10px solid rgb(18, 35, 27);
+}
